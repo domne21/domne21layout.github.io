@@ -2,13 +2,9 @@ body {
   background-color: #f5f5f5;
 }
 
-.test {
-  border: 5px solid #000;
-  margin: 2px;
-  padding: 2px;
 }
 #content-wrap {
-  border-color: blue;
+  border-color: 334455;
 }
 #left-sidebar {
   width: 30%;
@@ -35,7 +31,8 @@ body {
   border-radius: 50%;
 }
 #motto {
-  color: darkgreen;
+  color: 334455;
+  font-weight: bold;
 }
 
 #top-menu-bar {
